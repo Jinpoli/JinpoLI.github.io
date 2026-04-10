@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "LI Jinpo"
   pronouns         : # example: "she/her"
-  bio              : "PhD candidate in Economics, Lingnan University. Research interests: Innovation, International Trade, Trade Policy."
+  bio              : "PhD candidate in Economics, Lingnan University & Wuhan University."
   location         : "Hong Kong, China"
   employer         : "Lingnan University"
   uri              : # URL
@@ -83,12 +83,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  english:
+    title: 'In English'
+  chinese:
+    title: 'In Chinese'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF](https://raw.githubusercontent.com/Jinpoli/Jinpo-s-CV/main/cv.pdf){: .btn .btn--info}
+
+---
+
 ## Education
 
 **Lingnan University**, Hong Kong, China — 2024–2026 (expected)
@@ -29,12 +33,6 @@ B.A. International Economics
 
 ---
 
-## Research Interests
-
-Innovation, International Trade, Trade Policy
-
----
-
 ## Working Papers
 
 - "Trade Imbalance and Tariffs: Evidence from China During the Trade War" (with Larry D. QIU)
@@ -44,14 +42,6 @@ Innovation, International Trade, Trade Policy
 ## Publications
 
 <ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
----
-
-## Teaching
-
-<ul>{% for post in site.teaching reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
