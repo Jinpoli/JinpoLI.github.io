@@ -7,7 +7,7 @@ author_profile: false
 
 {% include base_path %}
 
-## Working Papers
+<h2>Working Papers</h2>
 
 <ul>
   <li>"Trade Imbalance and Tariffs: Evidence from China During the Trade War" (with Bingjing LI and Larry D. QIU)</li>
@@ -15,28 +15,24 @@ author_profile: false
   <li>"Talent Spatial Agglomeration and Regional Innovation Output: Evidence from China's Pilot Free Trade Zone Policy"</li>
 </ul>
 
-## Publications
+<h2>Publications</h2>
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-{% if site.publication_category %}
-  {% for category in site.publication_category %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
+<h3>In English</h3>
+<hr />
+{% for post in site.publications reversed %}
+  {% if post.category == 'english' %}
     {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+  {% endif %}
+{% endfor %}
+
+<h3>In Chinese</h3>
+<hr />
+{% for post in site.publications reversed %}
+  {% if post.category == 'chinese' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
