@@ -8,6 +8,9 @@ date: 2024-08-01
 venue: '经济研究'
 paperurl: 'https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCCA1CoiffPH5nQ_c4dIpLjdFFZSqbECOhmQpWwAjdGKnVjuMf0gPlP3KuSmfprtKkrxJ6RLO0zDJQIU4LOJ5FeMEE0VTA0Y9JTHGyb4jMaMPqyj_6JcHSlQKNQNR1mDkOagT0m50DVPrr5iXC-8JfkN&uniplatform=NZKPT'
 reprinted: '人大复印报刊资料全文转载《劳动经济与劳动关系》2025年第01期。'
+awards: '《中国人口年鉴》（2025年卷）优秀论文。'
 ---
 
 余振、**李锦坡**（通讯作者）、蒋盛君，2024：《高端人才空间集聚与后发国家创新发展——来自中国个体专利数据的证据》，《经济研究》第8期。[CNKI](https://kns.cnki.net/kcms2/article/abstract?v=64ENavj7QCCA1CoiffPH5nQ_c4dIpLjdFFZSqbECOhmQpWwAjdGKnVjuMf0gPlP3KuSmfprtKkrxJ6RLO0zDJQIU4LOJ5FeMEE0VTA0Y9JTHGyb4jMaMPqyj_6JcHSlQKNQNR1mDkOagT0m50DVPrr5iXC-8JfkN&uniplatform=NZKPT)
+
+**转载与奖项：** 人大复印报刊资料全文转载《劳动经济与劳动关系》2025年第01期；《中国人口年鉴》（2025年卷）优秀论文。

@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[View CV (PDF)](https://www.dropbox.com/scl/fi/06w60pffzfm3hw87s903t/cv.pdf?rlkey=epph1uyfd6gkryakw4mosbagk&st=4d4vkrid&dl=0){: .btn .btn--info}
+[View CV (PDF)](https://www.dropbox.com/scl/fi/l8t9dc7iwjp2ze6bkbvtr/cv.pdf?rlkey=pe4lgur96k9o7v2d5c50frlb3&dl=0){: .btn .btn--info}

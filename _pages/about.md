@@ -15,4 +15,4 @@ My research interests are **Innovation**, **International Trade**, and **Trade P
 
 Department of Economics, Lingnan University, Hong Kong, China
 
-Email: [jinpoli1995@gmail.com](mailto:jinpoli1995@gmail.com)
+Email: [jinpoli@ln.edu.hk](mailto:jinpoli@ln.edu.hk)
